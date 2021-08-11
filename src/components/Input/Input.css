@@ -1,0 +1,17 @@
+.input {
+    padding:12px;
+    border:none;
+    border-bottom:2px solid #e7e7e7;
+    outline:none;
+}
+
+
+.inputSmall {
+    width:100px;
+}
+.inputMedium {
+    width:150px;
+}
+.inputLarge {
+    width:200px;
+}

@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`about the mocked function 1`] = `
+[MockFunction add 42] {
+  "calls": Array [
+    Array [
+      1,
+    ],
+  ],
+  "results": Array [
+    Object {
+      "type": "return",
+      "value": 43,
+    },
+  ],
+}
+`;

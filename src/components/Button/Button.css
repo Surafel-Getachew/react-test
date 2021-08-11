@@ -1,0 +1,46 @@
+.button {
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.primary {
+  background-color: #008cba;
+}
+.secondary {
+  background-color: #e7e7e7;
+  color: black;
+}
+.success {
+  background-color: #4caf50;
+}
+.danger {
+  background-color: #f44336;
+}
+
+.buttonSmall {
+  border: none;
+  color: white;
+  padding: 10px 16px;
+  text-align: center;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.buttonSmall {
+  border: none;
+  color: white;
+  padding: 10px 16px;
+  text-align: center;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 4px;
+  cursor: pointer;
+}
